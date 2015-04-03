@@ -1,0 +1,1 @@
+{"meta":{"descriptor":"days__2013-12","title":"December 2013","kind":"plain"},"rows":[{"descriptor":"03","entries":["fc9405c0","2382f087","1db15d2d"],"title":"03"},{"descriptor":"04","entries":["50bd9743"],"title":"04"},{"descriptor":"08","entries":["e907501f"],"title":"08"},{"descriptor":"12","entries":["8853cf8f"],"title":"12"}]}

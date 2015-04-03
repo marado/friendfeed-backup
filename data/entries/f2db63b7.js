@@ -1,0 +1,1 @@
+{"body":"tea time","commands":["comment","edit","delete"],"from":{"commands":["post","dm"],"type":"user","name":"Marcos Marado","id":"mindboosternoori"},"url":"http://friendfeed.com/mindboosternoori/f2db63b7/tea-time","date":"2009-12-20T00:50:58Z","id":"e/f2db63b710da49519e4ee0372e4689ae","name":"f2db63b7","dateFriendly":"December 20, 2009 at 00:50","comments":[],"likes":[]}
