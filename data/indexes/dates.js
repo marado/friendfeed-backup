@@ -146,7 +146,7 @@
 				{"descriptor":"2013-09","entries":["e96d99d1","d3e81206","cc3489ba","d40d13f7","815f8dc5","a013f3a1","1ba4cac2","a9ee52f2"],"title":"September","subindex":"days__2013-09"},
 				{"descriptor":"2013-10","entries":["43a0c30d","d9c9f49a","074253b0","28a976b2","65ef39cd","ce66d041"],"title":"October","subindex":"days__2013-10"},
 				{"descriptor":"2013-12","entries":["8853cf8f","e907501f","50bd9743","fc9405c0","2382f087","1db15d2d"],"title":"December","subindex":"days__2013-12"},
-				{"descriptor":"20132","entries":[
+				{"descriptor":"2013","entries":[
 					"8853cf8f","e907501f","50bd9743","fc9405c0","2382f087","1db15d2d",
 				        "43a0c30d","d9c9f49a","074253b0","28a976b2","65ef39cd","ce66d041",
 				        "e96d99d1","d3e81206","cc3489ba","d40d13f7","815f8dc5","a013f3a1","1ba4cac2","a9ee52f2",
